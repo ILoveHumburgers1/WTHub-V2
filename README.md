@@ -38,9 +38,8 @@ Potential crimes: Using exploits may violate laws in your jurisdiction, includin
 2.6. UAE Decree-Law No. 34/2021: system interference/impersonation
 2.7. Egypt - Cybercrime Law No. 175/2018: illegal access.
 
-------------------------------------------------------------------------------------------------------------------------------------------
 Law parts upper may be avoided, and it has low chance of crime, but still it is against some of the country laws.
-------------------------------------------------------------------------------------------------------------------------------------------
+
 2.4. No warranties: WTHub is provided "as-is". For this moment WTHub is published only in GitHub. If you find it in other websites, make a
      ticket in Discord server. Other stuff like scripts which are published in other websites may contain malware, backdoors, keyloggers,
      or vulnerabilities. Scan with VirusTotal or something else, before use.
