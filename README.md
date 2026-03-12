@@ -6,6 +6,7 @@
 --| $$  \ $$| $$      | $$  | $$| $$  | $$| $$\  $ | $$| $$      
 --| $$  | $$| $$$$$$$$| $$  | $$| $$$$$$$/| $$ \/  | $$| $$$$$$$$
 --|__/  |__/|________/|__/  |__/|_______/ |__/     |__/|________/
+------------------------------------------------------------------------------------------------------------------------------------------
 
 WTHub Exploit - Legal and Usage Disclaimer
 READ BEFORE INTERACTING WITH "WTHub"
@@ -48,16 +49,15 @@ Law parts upper may be avoided, and it has low chance of crime, but still it is 
 2.5. Age restriction: Roblox requires users to be 13+. Exploits amplify risks for minors.
 
 3. Ethical and Community Impact
-4. 
 Exploits ruin fair play for millions of legitimate players, especially in competitive games. They enable scams (e.g., item duping, phishing,
 unfair against others), harassment, and economy disruption. Using WTHub may harm the Roblox's ecosystem, potentially leading to stricter
 rules for everyone.
 
-5. Distribution and Sharing Prohibited
+4. Distribution and Sharing Prohibited
 
 Do not redistribute/reupload WTHub on forums, Discord, GitHub, Pastebin, or any platform without agreement of the owner (ILoveHumburgers1).
-5.1. Sharing links or files may result in your platforms being banned or legal takedowns (DMCA).
-5.2. Developers reserve the right to revoke access or pursue action against leechers/sharers.
+4.1. Sharing links or files may result in your platforms being banned or legal takedowns (DMCA).
+4.2. Developers reserve the right to revoke access or pursue action against leechers/sharers.
 
 5. No Support or Refunds
 No support for bans, crashes, or issues. "It worked before" is not valid.
